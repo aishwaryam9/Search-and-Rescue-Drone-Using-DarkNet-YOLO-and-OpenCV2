@@ -17,6 +17,6 @@ Year- 2018
 
 https://pjreddie.com/media/files/papers/YOLOv3.pdf
 
-
+ 
 
 
