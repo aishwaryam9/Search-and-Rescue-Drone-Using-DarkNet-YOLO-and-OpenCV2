@@ -6,10 +6,15 @@ The main2.py is the driver Python file. Input the name of your video file (insid
 Download yolov3 and yolov3-tiny weight files from here - https://pjreddie.com/darknet/yolo/
 
 Citation-
+
 Title- "YOLOv3: An Incremental Improvement"
+
 Authors- Redmon, Joseph and Farhadi, Ali 
+
 Journal- arXiv
+
 Year- 2018
+
 https://pjreddie.com/media/files/papers/YOLOv3.pdf
 
 
